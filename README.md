@@ -30,4 +30,4 @@ Les étapes du Projet sont le  Prétraitement des Données ( très important ! )
 - Le modèle de **régression linéaire** a permis d'identifier des relations entre la concentration de CO2 et la température moyenne.
 - Le **clustering** a réussi à regrouper les données climatiques en trois catégories principales.
 
-**Dataset : climate_change.csv Download on Kaggle website**
+**Dataset : climate_change_dataset.csv Download on Kaggle website**
