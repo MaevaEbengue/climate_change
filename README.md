@@ -31,3 +31,15 @@ Les étapes du Projet sont le  Prétraitement des Données ( très important ! )
 - Le **clustering** a réussi à regrouper les données climatiques en trois catégories principales.
 
 **Dataset : climate_change_dataset.csv Download on Kaggle website**
+
+les colonnes du dataset sont : 
+
+- Année, Mois
+- Température moyenne, maximale et minimale
+- Précipitations, humidité, vitesse du vent
+- Irradiation solaire, couverture nuageuse
+- Concentration de CO2, indices d'ENSO et de végétation
+- Température de la surface de la mer
+- Divers autres indicateurs environnementaux
+
+##interpretation des résultats à venir 
