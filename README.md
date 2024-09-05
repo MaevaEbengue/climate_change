@@ -10,7 +10,7 @@ The goals are to:
 Project steps include Data Preprocessing (very important!) , Descriptive Data Analysis , Basic Statistics (mean, median, etc.), Multiple Linear Regression , Clustering (K-means).
 
  **Results
-- Descriptive statistics** showed significant variations in temperature and precipitation over time.
+- **Descriptive statistics** showed significant variations in temperature and precipitation over time.
 - The **linear regression** model identified relationships between CO2 concentration and mean temperature.
 - **Clustering** successfully grouped climate data into three main categories.
 
